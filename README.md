@@ -27,3 +27,6 @@ This bot does not ban anybody, it only deletes messages by the rules listed abov
 5. Enjoy!
 
 To get more help submit `/help` command to the bot.
+
+## One click installation on Heroku for newbies (Click on the button below) !!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
